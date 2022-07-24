@@ -55,6 +55,13 @@
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "ununifi1fpwpgj3hjh4aup0tntlhklpxwlkn9950u4zumr",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
         }
       ]
     },
@@ -69,6 +76,15 @@
       "balances": [
         {
           "address": "ununifi1q699x4mx973208awt5wccrk6d3j5nam39ww7rj",
+          "coins": [
+            {
+              "denom": "uguu",
+              "amount": "125000000000000"
+            }
+          ]
+        },
+        {
+          "address": "ununifi1fpwpgj3hjh4aup0tntlhklpxwlkn9950u4zumr",
           "coins": [
             {
               "denom": "uguu",
